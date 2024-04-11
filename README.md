@@ -1,4 +1,4 @@
-# Bor de musica no discord com Discord.js
+# Bot de musica no discord com Discord.js
 
 Após clonar o repositorio crie um arquive chamado ".env" e dentro dele cole isso->
 ```
