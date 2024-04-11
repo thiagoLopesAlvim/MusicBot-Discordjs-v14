@@ -1,6 +1,6 @@
 # Bot de musica no discord com Discord.js
 
-1-Após clonar o repositorio crie um arquive chamado ".env" e dentro dele cole isso->
+1-Após clonar o repositorio crie um arquive chamado ".env" e dentro dele cole isso(No lugar do xxx colo que o TOKEN e o CLIENT_ID de seu proprio bot)->
 ```
 TOKEN=xxx
 CLIENT_ID=xxx
