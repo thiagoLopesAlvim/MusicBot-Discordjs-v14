@@ -1,11 +1,13 @@
 # Bot de musica no discord com Discord.js
 
-Após clonar o repositorio crie um arquive chamado ".env" e dentro dele cole isso->
+1-Após clonar o repositorio crie um arquive chamado ".env" e dentro dele cole isso->
 ```
 TOKEN=xxx
 CLIENT_ID=xxx
 ```
+2- No terminal digite o comando npm install 
 
+3-Para rodar seu bot em seguida no terminal digite node .
 # Para usar com o Docker
 
 `docker run -e TOKEN=<your_token_here> -e CLIENT_ID=<your_client_id_here> -d pabolo02345/discord-js-music-bot`
